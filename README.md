@@ -1,6 +1,6 @@
 # Treevia
 Welcome to Treevia! 
-<img width="174" alt="appIcon" src="https://github.com/itisclairee/Treevia/assets/148436340/3162d354-a745-406d-b473-4b38f9b627be">
+<img width="200" alt="appIcon" src="https://github.com/itisclairee/Treevia/assets/148436340/3162d354-a745-406d-b473-4b38f9b627be">
 
 
 ##  :link: **Introduction**
