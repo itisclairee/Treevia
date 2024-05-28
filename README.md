@@ -1,5 +1,7 @@
 # Treevia
 Welcome to Treevia! 
+<img width="1000" alt="appIcon" src="https://github.com/itisclairee/Treevia/assets/148436340/3162d354-a745-406d-b473-4b38f9b627be">
+
 
 ##  :link: **Introduction**
 From the beginning, we all were very passionate about these topics: sustainability, environment. We think it is really important to raise awareness and thereby understand the effects of climate change.
